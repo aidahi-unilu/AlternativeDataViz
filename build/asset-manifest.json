@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aidahi-unilu/AlternativeDataViz/static/css/main.2e5af90f.css",
+    "main.js": "/aidahi-unilu/AlternativeDataViz/static/js/main.534a214a.js",
+    "index.html": "/aidahi-unilu/AlternativeDataViz/index.html",
+    "main.2e5af90f.css.map": "/aidahi-unilu/AlternativeDataViz/static/css/main.2e5af90f.css.map",
+    "main.534a214a.js.map": "/aidahi-unilu/AlternativeDataViz/static/js/main.534a214a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5af90f.css",
+    "static/js/main.534a214a.js"
+  ]
+}
