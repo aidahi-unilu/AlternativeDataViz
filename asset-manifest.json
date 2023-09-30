@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AlternativeDataViz/static/css/main.2e5af90f.css",
+    "main.js": "/AlternativeDataViz/static/js/main.1aa6d2aa.js",
+    "index.html": "/AlternativeDataViz/index.html",
+    "main.2e5af90f.css.map": "/AlternativeDataViz/static/css/main.2e5af90f.css.map",
+    "main.1aa6d2aa.js.map": "/AlternativeDataViz/static/js/main.1aa6d2aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e5af90f.css",
+    "static/js/main.1aa6d2aa.js"
+  ]
+}
